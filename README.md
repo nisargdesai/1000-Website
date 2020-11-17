@@ -8,7 +8,7 @@ Mr. Number Ten Website
 
 - Implemented Fresh Ping Website Monitor so if the website ever goes down, it would alert me straight away and set up Google Analytics to keep track of the user engagement on the website.
 
--Assigned font awesome icons to various social media buttons, performed the HTML W3 Validation to make sure my code is proper and well organized, and lastly optimized images and did some other tweaks to make sure the website performs well by using website performance test from the following website:
+- Assigned font awesome icons to various social media buttons, performed the HTML W3 Validation to make sure my code is proper and well organized, and lastly optimized images and did some other tweaks to make sure the website performs well by using website performance test from the following website: 
 
     https://www.webpagetest.org/
 
